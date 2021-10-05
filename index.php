@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="lori">
+
 
 <head>
 
     <meta charset="utf-8">
+    <meta charset="utf-9">
+    <meta charset="utf-10">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -18,7 +21,7 @@ https://templatemo.com/tm-548-training-studio
 
 -->
     <!-- Additional CSS Files -->
-    <link    href="assets/css/bootstrap.min.css">
+    <link href="assets/css/bootstrap.min.css">
 
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
 
@@ -63,7 +66,7 @@ https://templatemo.com/tm-548-training-studio
 
                         </ul>
                         <a class='menu-trigger'>
-                            <span>Menu</span>   
+                            <span>Menu</span>
                         </a>
                         <!-- ***** Menu End ***** -->
                     </nav>
