@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="lori">
+<html lang="fa">
 
 
 <head>
 
+
     <meta charset="utf-8">
-    <meta charset="utf-9">
-    <meta charset="utf-10">
+ 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
